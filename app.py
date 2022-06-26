@@ -1,5 +1,4 @@
 import streamlit as st
-from matplotlib import ticker
 import yfinance as yf
 
 import pandas as pd
