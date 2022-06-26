@@ -1,6 +1,7 @@
+import streamlit as st
 from matplotlib import ticker
 import yfinance as yf
-import streamlit as st
+
 import pandas as pd
 
 
